@@ -1,11 +1,11 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%20am%20vodkq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Tester%20and%20Developer&descSize=22&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I%20am%20kzvqor&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Tester%20and%20Developer&descSize=22&descAlignY=58" alt="header" />
 </div>
 
 <!-- Typing animation -->
 <div align="center">
-  <a href="https://github.com/vodkq">
+  <a href="https://github.com/kzvqor">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=560&lines=QA+Tester+and+Developer;Python+%7C+Playwright+%7C+Postman;Breaking+things+to+make+them+better+%F0%9F%90%9B;Always+learning%2C+always+testing+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
@@ -13,12 +13,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vodkq&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kzvqor&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </div>
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/vodkq/vodkq/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://raw.githubusercontent.com/kzvqor/kzvqor/output/github-contribution-grid-snake.svg) 
 
 ---
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-vodkq.github.io-f3ebdd?style=for-the-badge&logo=githubpages&logoColor=black)](https://vodkq.github.io/)
+[![Website](https://img.shields.io/badge/Website-kzvqor.github.io-f3ebdd?style=for-the-badge&logo=githubpages&logoColor=black)](https://kzvqor.github.io/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/loli_lomik)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lomi__lomi__kik)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kapysta_killer/)
@@ -62,12 +62,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vodkq&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vodkq&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kzvqor&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzvqor&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vodkq&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=kzvqor&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 </div>
 
 ---
